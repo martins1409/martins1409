@@ -20,8 +20,8 @@ Contribuições são sempre bem-vindas! Se você encontrar maneiras de melhorar 
 Contato
 Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato comigo, fique à vontade para me enviar uma mensagem por meio dos seguintes canais:
 
-Email: [seu endereço de email]
-LinkedIn: [seu perfil do LinkedIn]
+Email: vandelsonmartins@hotmail.com
+
 Agradeço por visitar meu repositório e espero que você encontre valor nos códigos disponíveis aqui. Divirta-se explorando e aprendendo com eles!
 
 Happy coding!
