@@ -1,5 +1,6 @@
 Bem-vindo ao meu repositório!
-Olá! Sou Vandelson Martins e este é o meu repositório no GitHub. Sou estudante de Licenciatura em Computação e também sou técnico em Informática. Aqui, você encontrará uma coleção de códigos que desenvolvi ao longo do meu percurso educacional e profissional.
+Sou Vandelson Martins e este é o meu repositório no GitHub. Sou Técnico em informática e estudante de Licenciatura em Computação.
+Aqui, você encontrará uma coleção de códigos que desenvolvi ao longo do meu percurso educacional e profissional.
 
 Sobre mim
 Estudante de Licenciatura em Computação.
