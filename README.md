@@ -10,16 +10,18 @@ Todos os códigos disponíveis neste repositório estão licenciados sob uma lic
 
 Como usar
 Navegue pelos diretórios para encontrar o código-fonte que você deseja.
-Leia a documentação fornecida, se disponível, para entender melhor o propósito e o funcionamento do código.
+Leia a documentação, se disponível, para entender melhor o propósito e o funcionamento do código.
 Faça o download ou clone o repositório para obter uma cópia local dos arquivos.
 Utilize uma IDE ou editor de texto de sua preferência para abrir os arquivos e explorar o código.
 Experimente, modifique e adapte os códigos de acordo com suas necessidades.
-Se encontrar problemas ou bugs, sinta-se à vontade para reportá-los ou contribuir com correções.
-Contribuição
-Contribuições são sempre bem-vindas! Se você encontrar maneiras de melhorar o código existente, adicionar novos recursos ou corrigir problemas, fique à vontade para enviar suas contribuições por meio de pull requests. Vou revisar e considerar suas alterações para enriquecer o repositório.
+Se encontrar problemas ou bugs, sinta-se à vontade para reportá-los lembre-se nenhum código é definitivo ficarei muito feliz em receber
+suas contribuições ou correções.
+
+Contribuições são sempre bem-vindas! Se você encontrar maneiras de melhorar o código existente, adicionar novos recursos ou corrigir problemas, fique à vontade para enviar suas contribuições por meio de pull requests. Vou revisar e considerar suas alterações para enriquecer meus conheciments 
+e é claro o repositório.
 
 Contato
-Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato comigo, fique à vontade para me enviar uma mensagem por meio dos seguintes canais:
+Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato comigo, fique à vontade para me enviar uma mensagem por meio do seguinte canal:
 
 Email: vandelsonmartins@hotmail.com
 
