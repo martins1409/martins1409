@@ -7,6 +7,8 @@ Sobre mim
 Estudante de Licenciatura em Computação.
 Técnico em Informática.
 Licença
+
+
 Todos os códigos disponíveis neste repositório estão licenciados sob uma licença livre. Isso significa que você é livre para copiar, modificar e distribuir esses códigos como desejar. Sinta-se à vontade para utilizá-los em seus próprios projetos, aprender com eles ou contribuir com melhorias. Acredito no compartilhamento de conhecimento e no poder da colaboração para impulsionar o avanço tecnológico.
 
 Como usar
