@@ -15,11 +15,12 @@ Leia a documentação, se disponível, para entender melhor o propósito e o fun
 Faça o download ou clone o repositório para obter uma cópia local dos arquivos.
 Utilize uma IDE ou editor de texto de sua preferência para abrir os arquivos e explorar o código.
 Experimente, modifique e adapte os códigos de acordo com suas necessidades.
-Se encontrar problemas ou bugs, sinta-se à vontade para reportá-los lembre-se nenhum código é definitivo ficarei muito feliz em receber
+Se encontrar problemas ou bugs, sinta-se à vontade para reportá-los lembre-se nenhum código é definitivo, ficarei muito feliz em receber
 suas contribuições ou correções.
 
-Contribuições são sempre bem-vindas! Se você encontrar maneiras de melhorar o código existente, adicionar novos recursos ou corrigir problemas, fique à vontade para enviar suas contribuições por meio de pull requests. Vou revisar e considerar suas alterações para enriquecer meus conheciments 
-e é claro o repositório.
+Contribuições são sempre bem-vindas! 
+
+Se você encontrar maneiras de melhorar o código existente, adicionar novos recursos ou corrigir problemas, fique à vontade para enviar suas contribuições por meio de pull requests. Vou revisar e considerar suas alterações para enriquecer meus conhecimentos e é claro o repositório.
 
 Contato:
 
